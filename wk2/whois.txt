@@ -1,0 +1,110 @@
+1)
+
+Domain:nfl.com
+Registrar:MarkMonitor Inc.
+Registered On:1996-05-20
+Expires On:2023-05-20
+Updated On:2021-04-19
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Name Servers:udns1.ultradns.net
+udns2.ultradns.net
+Organization:NFL Enterprises LLC
+State:ny
+Country:US
+Email:Select Request Email Form at https://domains.markmonitor.com/whois/nfl.com
+
+2)
+
+Domain:yamaha-motor.ca
+Registrar:Go Daddy Domains Canada, Inc
+Registered On:2000-11-30
+Expires On:2027-12-12
+Updated On:2020-06-30
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Name Servers:toroon63nszp04.srvr.bell.ca
+toroondcnszs04.srvr.bell.ca
+Registrant Contact
+Name:Yamaha Motor Company Ltd.
+Street:480 Gordon Baker Road
+City:Toronto
+State:ON
+Postal Code:M2H3B4
+Country:CA
+Phone:+1.1141649819
+Email:email@yamaha-motor.ca
+
+3)
+
+Domain:nba.com
+Registrar:CSC Corporate Domains, Inc.
+Registered On:1994-11-28
+Expires On:2022-11-27
+Updated On:2022-01-27
+Status:clientTransferProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:a1-148.akam.net
+a12-65.akam.net
+a16-64.akam.net
+a18-65.akam.net
+a5-65.akam.net
+a7-67.akam.net
+Registrant Contact
+Name:NO DATA
+Organization:NBA Media Ventures, LLC
+Street:645 Fifth Avenue
+City:New York
+State:NY
+Postal Code:10022
+Country:US
+Phone:+1.2018651506
+Fax:+0.0000000000
+Email:email@nba.com
+
+4)
+
+
+Domain:racerxonline.com
+Registrar:GoDaddy.com, LLC
+Registered On:2004-04-10
+Expires On:2022-05-31
+Updated On:2021-06-01
+Status:clientDeleteProhibited
+clientRenewProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Name Servers:carl.ns.cloudflare.com
+mary.ns.cloudflare.com
+Registrant Contact
+Organization:World Sports Holdings, LLC
+State:West Virginia
+Country:US
+Email:Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=RACERXONLINE.COM
+
+5)
+
+Domain:youtube.com
+Registrar:MarkMonitor Inc.
+Registered On:2005-02-15
+Expires On:2023-02-15
+Updated On:2022-01-14
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns1.google.com
+ns2.google.com
+ns3.google.com
+ns4.google.com
+Registrant Contact
+Organization:Google LLC
+State:CA
+Country:US
+Email:Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com

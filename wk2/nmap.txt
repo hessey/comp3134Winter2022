@@ -1,0 +1,81 @@
+1)
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap instagram.com nfl.com youtube.com ktm.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-02-06 22:45 UTC
+Nmap scan report for instagram.com (31.13.80.174)
+Host is up (0.00095s latency).
+Other addresses for instagram.com (not scanned): 2a03:2880:f20e:e5:face:b00c:0:4420
+rDNS record for 31.13.80.174: instagram-p42-shv-01-yyz1.fbcdn.net
+Not shown: 996 filtered ports
+PORT     STATE  SERVICE
+80/tcp   open   http
+443/tcp  open   https
+843/tcp  closed unknown
+5222/tcp closed xmpp-client
+
+Nmap scan report for nfl.com (151.101.65.153)
+Host is up (0.00085s latency).
+Other addresses for nfl.com (not scanned): 151.101.1.153 151.101.193.153 151.101.129.153
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for youtube.com (142.251.41.78)
+Host is up (0.0011s latency).
+Other addresses for youtube.com (not scanned): 2607:f8b0:400b:804::200e
+rDNS record for 142.251.41.78: yyz10s20-in-f14.1e100.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ktm.com (151.101.66.133)
+Host is up (0.00084s latency).
+Other addresses for ktm.com (not scanned): 151.101.2.133 151.101.194.133 151.101.130.133
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 4 IP addresses (4 hosts up) scanned in 10.03 seconds
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# 
+
+2)
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 20 nfl.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-02-06 22:46 UTC
+Nmap scan report for nfl.com (151.101.65.153)
+Host is up (0.0011s latency).
+Other addresses for nfl.com (not scanned): 151.101.193.153 151.101.129.153 151.101.1.153
+
+PORT   STATE    SERVICE
+20/tcp filtered ftp-data
+
+Nmap done: 1 IP address (1 host up) scanned in 0.28 seconds
+
+3)
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 100-150 nfl.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-02-06 22:48 UTC
+Nmap scan report for nfl.com (151.101.1.153)
+Host is up (0.0017s latency).
+Other addresses for nfl.com (not scanned): 151.101.129.153 151.101.193.153 151.101.65.153
+All 51 scanned ports on nfl.com (151.101.1.153) are filtered
+
+Nmap done: 1 IP address (1 host up) scanned in 2.27 seconds
+
+4)
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F nfl.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-02-06 22:49 UTC
+Nmap scan report for nfl.com (151.101.1.153)
+Host is up (0.0011s latency).
+Other addresses for nfl.com (not scanned): 151.101.129.153 151.101.193.153 151.101.65.153
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 2.07 seconds
+

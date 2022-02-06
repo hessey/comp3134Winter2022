@@ -1,0 +1,34 @@
+1)
+
+Domain Name: instagram.com
+Top Level Domain: COM (Commercial TLD)
+IP Address: 157.240.241.174
+Geolocation: US (United States), CA, California, 94025 Menlo Park - Google Maps
+
+2)
+
+Domain Name: denverbroncos.com
+Top Level Domain: COM (Commercial TLD)
+IP Address: 151.101.193.153
+Geolocation: US (United States), CA, California, 94107 San Francisco - Google Maps
+
+3)
+
+Domain Name: ktm.com
+Top Level Domain: COM (Commercial TLD)
+IP Address: 151.101.66.133
+Geolocation: US (United States), CA, California, 94107 San Francisco - Google Maps
+
+4)
+
+Domain Name: georgebrown.ca
+Top Level Domain: CA (Canada)
+IP Address: 99.79.139.11
+Geolocation: US (United States), WA, Washington, 98108 Seattle - Google Maps
+
+5)
+
+Domain Name: husqvarna.com
+Top Level Domain: COM (Commercial TLD)
+IP Address: 13.70.201.215
+Geolocation: IE (Ireland), 07, Dublin, D02 Dublin - Google Maps
